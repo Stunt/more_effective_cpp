@@ -15,3 +15,5 @@ Les pointeurs sont à utiliser dans quelques cas:
 * Pointeur générique (base/derived classe)
 * Si on veut le setter à NULL
 * Si on veut changer la valeur du pointer
+* ...
+* 
