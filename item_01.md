@@ -16,4 +16,3 @@ Les pointeurs sont à utiliser dans quelques cas:
 * Si on veut le setter à NULL
 * Si on veut changer la valeur du pointer
 * ...
-* 
